@@ -1,2 +1,3 @@
-add_lunch_combo lineage_z2_plus-userdebug
-add_lunch_combo lineage_z2_plus-eng
+add_lunch_combo halium_z2_plus-eng
+add_lunch_combo halium_z2_plus-userdebug
+add_lunch_combo halium_z2_plus-user
